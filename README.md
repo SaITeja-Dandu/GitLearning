@@ -1,2 +1,2 @@
 # GitLearning
-Git tutorial from main [master]
+Git tutorial from 2ndbranch [2nd ]
